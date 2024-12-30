@@ -2,6 +2,7 @@ about
 aboutus
 abuse
 acme
+activate
 ad
 admanager
 admin
@@ -318,6 +319,7 @@ servers?
 service
 services
 service
+subscribe
 uploads?
 shop
 shopping
