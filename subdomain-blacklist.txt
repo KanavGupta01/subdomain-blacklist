@@ -211,6 +211,7 @@ list
 lists
 local
 locale
+localhost
 location
 log
 login
@@ -320,6 +321,7 @@ service
 services
 service
 subscribe
+support
 uploads?
 shop
 shopping
